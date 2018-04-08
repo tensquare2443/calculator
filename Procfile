@@ -1,1 +1,1 @@
-web: npm-run-all build-css build-js
+web: react-scripts-build
