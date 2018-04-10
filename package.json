@@ -23,6 +23,6 @@
     "build": "npm-run-all build-css build-js",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "heroku-postbuild": "npm run build-js"
+    "heroku-postbuild": "npm run build"
   }
 }
