@@ -1,2 +1,3 @@
-App: Simple Web Calculator
-Tools: ReactJS, Bootstrap 4 (served through Node)
+**Simple Web Calculator**  
+No explanation neeeded.  
+Hosted live on Heroku (give a minute to load): https://calculator-168303.herokuapp.com/
